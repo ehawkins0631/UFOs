@@ -17,7 +17,8 @@ To add more search criteria, simply continue to add more filters in other filter
 
 The user can add up to 5 filters, including date, city, state, country, and shape.
 
-![image](https://user-images.githubusercontent.com/101227930/181358771-3f1fd0e6-5294-48f4-a2c7-729dde3b4e9b.png)
+![image](https://user-images.githubusercontent.com/101227930/182079026-8ebf3598-6b46-4204-93d6-46c9237ed160.png)
+
 
 
 
