@@ -28,3 +28,13 @@ One drawback of this new design is that the filter search fields are ridgid. If 
 Two recommendations for further development are as follows.
 Improve flexibility of the filter inputs.
 Improve database to include more up to date sightings.
+
+
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
