@@ -1,6 +1,5 @@
 UFOs Finder Site
 
-
 Project Overview
 Create a webpage with a dynamic tableto provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, users can filter the UFO sightings table by the city, state, country, and shape.
 
