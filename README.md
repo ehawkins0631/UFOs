@@ -8,7 +8,6 @@ Resources
 Data Source: data.js
 Software: JavaScript, HTML, VSCode, D3, Bootstrap
 
-
 UFO Finder Results
 The improved search criteria works as follows:
 
