@@ -7,13 +7,11 @@ Resources
 Data Source: data.js
 Software: JavaScript, HTML, VSCode, D3, Bootstrap
 
-
 UFO Finder Results
 The improved search criteria works as follows:
 
 
 Select first search criteria by selecting the filter search box of choice and inputting criteria
-
 
 To add more search criteria, simply continue to add more filters in other filter search boxes
 
